@@ -6,8 +6,8 @@ is the number of coPrime pairs p divided by the total number of pairs q. As q ap
 
 #include <iostream>		//cout, cin
 #include <string>		//type string
-#include <stdlib.h>		//srand(), rand()
-#include <time.h>		//time()
+#include <cstdlib>		//srand(), rand()
+#include <ctime>		//time()
 #include <cmath>		//sqrt()
 #include <iomanip>		//setprecision()
 
